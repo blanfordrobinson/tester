@@ -1,0 +1,304 @@
+﻿<?xml version="1.0"?>
+<edgarSubmission xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns1="http://www.sec.gov/edgar/common" xmlns:ns2="http://www.sec.gov/edgar/statecodes" xmlns:ns3="http://www.sec.gov/edgar/nmfp2common" xsi:schemaLocation="http://www.sec.gov/edgar/nmfp2 eis_NMFP2_Filer.xsd" xmlns="http://www.sec.gov/edgar/nmfp2">
+  <headerData>
+    <submissionType>N-MFP2</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0000857156</cik>
+          <ccc>xxxxxxxx</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>TEST</liveTestFlag>
+      <contact>
+        <contactName>Ryan, Mike</contactName>
+        <contactPhoneNumber>4842221111</contactPhoneNumber>
+      </contact>
+      <notifications>
+        <notificationEmailAddress>michael.d.ryan@rrd.com</notificationEmailAddress>
+      </notifications>
+      <notifications>
+        <notificationEmailAddress>arpita.basu@rrd.com</notificationEmailAddress>
+      </notifications>
+      <notifications>
+        <notificationEmailAddress>madanmohan.devasani@rrd.com</notificationEmailAddress>
+      </notifications>
+      <notifications>
+        <notificationEmailAddress>sumanth.sagar@rrd.com</notificationEmailAddress>
+      </notifications>
+      <confirmingCopyFlag>N</confirmingCopyFlag>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <generalInfo>
+      <reportDate>2016-07-31</reportDate>
+      <cik>0000857156</cik>
+      <registrantLEIId>A1B2C3D4E5F6G7H8I9J0</registrantLEIId>
+      <seriesId>S000004502</seriesId>
+      <totalShareClassesInSeries>1</totalShareClassesInSeries>
+      <finalFilingFlag>N</finalFilingFlag>
+      <fundAcqrdOrMrgdWthAnthrFlag>N</fundAcqrdOrMrgdWthAnthrFlag>
+      <contact2>
+        <contactName>Ryan, Mike</contactName>
+        <contactPhoneNumber>4842221111</contactPhoneNumber>
+        <contactEmailAddress>michael.d.ryan@rrd.com</contactEmailAddress>
+      </contact2>
+    </generalInfo>
+    <seriesLevelInfo>
+      <adviser>
+        <adviserName>CALVERT INVESTMENT MANAGEMENT, INC.</adviserName>
+        <adviserFileNumber>801-17044</adviserFileNumber>
+      </adviser>
+      <adviser>
+        <adviserName>Charles Schwab Investment Management, Inc.</adviserName>
+        <adviserFileNumber>801-35905</adviserFileNumber>
+      </adviser>
+      <adviser>
+        <adviserName>RS Investment Management Co., LLC</adviserName>
+        <adviserFileNumber>801-66927</adviserFileNumber>
+      </adviser>
+      <subAdviser>
+        <adviserName>GE Asset Management Incorporated</adviserName>
+        <adviserFileNumber>801-31947</adviserFileNumber>
+      </subAdviser>
+      <subAdviser>
+        <adviserName>Legg Mason Partners Fund Advisor LLC</adviserName>
+        <adviserFileNumber>801-66785</adviserFileNumber>
+      </subAdviser>
+      <subAdviser>
+        <adviserName>New York Life Investment Management LLC</adviserName>
+        <adviserFileNumber>801-57396</adviserFileNumber>
+      </subAdviser>
+      <indpPubAccountant>
+        <name>PricewaterhouseCoopers LLP</name>
+        <city>San Francisco</city>
+        <stateCountry>CA</stateCountry>
+      </indpPubAccountant>
+      <administrator>
+        <administratorName>Charles Schwab Investment Management, Inc.</administratorName>
+      </administrator>
+      <administrator>
+        <administratorName>Russell Fund Services Company</administratorName>
+      </administrator>
+      <transferAgent>
+        <name>Boston Financial Data Services, Inc.</name>
+        <cik>0000275143</cik>
+        <fileNumber>84-00896</fileNumber>
+      </transferAgent>
+      <feederFundFlag>Y</feederFundFlag>
+      <masterFeederFund>
+        <cik>0000917713</cik>
+        <name>AB Exchange Reserves</name>
+        <fileNumber>33-74230</fileNumber>
+        <seriesId>s000009985</seriesId>
+      </masterFeederFund>
+      <masterFundFlag>N</masterFundFlag>
+      <seriesFundInsuCmpnySepAccntFlag>N</seriesFundInsuCmpnySepAccntFlag>
+      <moneyMarketFundCategory>Exempt Government</moneyMarketFundCategory>
+      <fundExemptRetailFlag>N</fundExemptRetailFlag>
+      <averagePortfolioMaturity>20</averagePortfolioMaturity>
+      <averageLifeMaturity>30</averageLifeMaturity>
+      <totalValueDailyLiquidAssets>
+        <ns3:fridayWeek1>2.00</ns3:fridayWeek1>
+        <ns3:fridayWeek4>7.00</ns3:fridayWeek4>
+      </totalValueDailyLiquidAssets>
+      <totalValueWeeklyLiquidAssets>
+        <ns3:fridayWeek1>7.00</ns3:fridayWeek1>
+        <ns3:fridayWeek3>7.00</ns3:fridayWeek3>
+        <ns3:fridayWeek4>6.00</ns3:fridayWeek4>
+      </totalValueWeeklyLiquidAssets>
+      <percentageDailyLiquidAssets>
+        <ns3:fridayWeek1>0.0800</ns3:fridayWeek1>
+        <ns3:fridayWeek3>0.0800</ns3:fridayWeek3>
+        <ns3:fridayWeek4>0.0600</ns3:fridayWeek4>
+      </percentageDailyLiquidAssets>
+      <percentageWeeklyLiquidAssets>
+        <ns3:fridayWeek2>0.0900</ns3:fridayWeek2>
+        <ns3:fridayWeek3>0.0900</ns3:fridayWeek3>
+        <ns3:fridayWeek4>0.0600</ns3:fridayWeek4>
+      </percentageWeeklyLiquidAssets>
+      <cash>100.00</cash>
+      <totalValuePortfolioSecurities>100.00</totalValuePortfolioSecurities>
+      <amortizedCostPortfolioSecurities>100.00</amortizedCostPortfolioSecurities>
+      <totalValueOtherAssets>100.00</totalValueOtherAssets>
+      <totalValueLiabilities>0.00</totalValueLiabilities>
+      <netAssetOfSeries>0.00</netAssetOfSeries>
+      <numberOfSharesOutstanding>0.0000</numberOfSharesOutstanding>
+      <stablePricePerShare>1.0000</stablePricePerShare>
+      <sevenDayGrossYield>0.0000</sevenDayGrossYield>
+      <netAssetValue>
+        <ns3:fridayWeek1>0.0000</ns3:fridayWeek1>
+        <ns3:fridayWeek2>8.0000</ns3:fridayWeek2>
+        <ns3:fridayWeek3>0.0000</ns3:fridayWeek3>
+        <ns3:fridayWeek4>0.0000</ns3:fridayWeek4>
+        <ns3:fridayWeek5>0.0000</ns3:fridayWeek5>
+      </netAssetValue>
+    </seriesLevelInfo>
+    <classLevelInfo>
+      <classesId>C000012376</classesId>
+      <minInitialInvestment>1.00</minInitialInvestment>
+      <netAssetsOfClass>1.00</netAssetsOfClass>
+      <numberOfSharesOutstanding>1.0000</numberOfSharesOutstanding>
+      <netAssetPerShare>
+        <ns3:fridayWeek1>1.0000</ns3:fridayWeek1>
+        <ns3:fridayWeek2>2.0000</ns3:fridayWeek2>
+        <ns3:fridayWeek3>1.0000</ns3:fridayWeek3>
+        <ns3:fridayWeek4>1.0000</ns3:fridayWeek4>
+        <ns3:fridayWeek5>1.0000</ns3:fridayWeek5>
+      </netAssetPerShare>
+      <fridayWeek1>
+        <weeklyGrossSubscriptions>1.00</weeklyGrossSubscriptions>
+        <weeklyGrossRedemptions>1.00</weeklyGrossRedemptions>
+      </fridayWeek1>
+      <fridayWeek2>
+        <weeklyGrossSubscriptions>1.00</weeklyGrossSubscriptions>
+        <weeklyGrossRedemptions>1.00</weeklyGrossRedemptions>
+      </fridayWeek2>
+      <fridayWeek3>
+        <weeklyGrossSubscriptions>1.00</weeklyGrossSubscriptions>
+        <weeklyGrossRedemptions>1.00</weeklyGrossRedemptions>
+      </fridayWeek3>
+      <fridayWeek4>
+        <weeklyGrossSubscriptions>1.00</weeklyGrossSubscriptions>
+        <weeklyGrossRedemptions>1.00</weeklyGrossRedemptions>
+      </fridayWeek4>
+      <fridayWeek5>
+        <weeklyGrossSubscriptions>1.00</weeklyGrossSubscriptions>
+        <weeklyGrossRedemptions>1.00</weeklyGrossRedemptions>
+      </fridayWeek5>
+      <totalForTheMonthReported>
+        <weeklyGrossSubscriptions>1.00</weeklyGrossSubscriptions>
+        <weeklyGrossRedemptions>10.00</weeklyGrossRedemptions>
+      </totalForTheMonthReported>
+      <sevenDayNetYield>0.0200</sevenDayNetYield>
+      <personPayForFundFlag>Y</personPayForFundFlag>
+      <nameOfPersonDescExpensePay>10</nameOfPersonDescExpensePay>
+    </classLevelInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>CLARK CNTY WASH SCH DIST NO 114 EVERGREEN</nameOfIssuer>
+      <titleOfIssuer>CLARK CNTY WASH SCH DIST NO 114 EVERGREEN test1234</titleOfIssuer>
+      <CUSIPMember>006116AJ6</CUSIPMember>
+      <otherUniqueId>006116AJ6</otherUniqueId>
+      <investmentCategory>Other Repurchase Agreement, if any collateral falls outside Treasury, Government Agency and cash</investmentCategory>
+      <fundAcqstnUndrlyngSecurityFlag>Y</fundAcqstnUndrlyngSecurityFlag>
+      <repurchaseAgreement>
+        <repurchaseAgreementOpenFlag>N</repurchaseAgreementOpenFlag>
+        <collateralIssuers>
+          <nameOfCollateralIssuer />
+          <maturityDate>
+            <date>2016-08-08</date>
+          </maturityDate>
+          <couponOrYield>0.00</couponOrYield>
+          <principalAmountToTheNearestCent>0.00</principalAmountToTheNearestCent>
+          <valueOfCollateralToTheNearestCent>0.00</valueOfCollateralToTheNearestCent>
+          <ctgryInvestmentsRprsntsCollateral>Agency Mortgage-Backed Securities</ctgryInvestmentsRprsntsCollateral>
+        </collateralIssuers>
+      </repurchaseAgreement>
+      <securityEligibilityFlag>N</securityEligibilityFlag>
+      <NRSRO>
+        <nameOfNRSRO>A.M. Best Company, Inc.</nameOfNRSRO>
+        <rating>AM</rating>
+      </NRSRO>
+      <NRSRO>
+        <nameOfNRSRO>DBRS Ltd.</nameOfNRSRO>
+        <rating>DB</rating>
+      </NRSRO>
+      <NRSRO>
+        <nameOfNRSRO>Egan-Jones Rating Company</nameOfNRSRO>
+        <rating>EG</rating>
+      </NRSRO>
+      <NRSRO>
+        <nameOfNRSRO>Fitch, Inc.</nameOfNRSRO>
+        <rating>FC</rating>
+      </NRSRO>
+      <NRSRO>
+        <nameOfNRSRO>HR Ratings de MÃ©xico, S.A. de C.V.</nameOfNRSRO>
+        <rating>HR</rating>
+      </NRSRO>
+      <NRSRO>
+        <nameOfNRSRO>Japan Credit Rating Agency, Ltd.</nameOfNRSRO>
+        <rating>JC</rating>
+      </NRSRO>
+      <NRSRO>
+        <nameOfNRSRO>Kroll Bond Rating Agency, Ltd.</nameOfNRSRO>
+        <rating>KC</rating>
+      </NRSRO>
+      <NRSRO>
+        <nameOfNRSRO>Moody's Investors Service, Inc.</nameOfNRSRO>
+        <rating>MC</rating>
+      </NRSRO>
+      <NRSRO>
+        <nameOfNRSRO>Morningstar Credit Ratings, LLC</nameOfNRSRO>
+        <rating>MCR</rating>
+      </NRSRO>
+      <NRSRO>
+        <nameOfNRSRO>Standard and Poor's Ratings Services</nameOfNRSRO>
+        <rating>SPC</rating>
+      </NRSRO>
+      <investmentMaturityDateWAM>2016-08-08</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2016-08-08</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2016-08-08</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>Y</securityDemandFeatureFlag>
+      <demandFeature>
+        <identityOfDemandFeatureIssuer>"Bank of America NA"</identityOfDemandFeatureIssuer>
+        <amountProvidedByDemandFeatureIssuer>0.0200</amountProvidedByDemandFeatureIssuer>
+        <remainingPeriodDemandFeature>2</remainingPeriodDemandFeature>
+        <demandFeatureConditionalFlag>Y</demandFeatureConditionalFlag>
+        <demandFeatureRatingOrNRSRO>
+          <nameOfNRSRO>N/A</nameOfNRSRO>
+          <rating>N/A</rating>
+        </demandFeatureRatingOrNRSRO>
+      </demandFeature>
+      <demandFeature>
+        <identityOfDemandFeatureIssuer>"Southern Poverty Law Center Inc</identityOfDemandFeatureIssuer>
+        <amountProvidedByDemandFeatureIssuer>0.0300</amountProvidedByDemandFeatureIssuer>
+        <remainingPeriodDemandFeature>3</remainingPeriodDemandFeature>
+        <demandFeatureConditionalFlag>Y</demandFeatureConditionalFlag>
+        <demandFeatureRatingOrNRSRO>
+          <nameOfNRSRO>N/A</nameOfNRSRO>
+          <rating>N/A</rating>
+        </demandFeatureRatingOrNRSRO>
+      </demandFeature>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0000</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>0.00</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>0.00</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0000</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <scheduleOfPortfolioSecuritiesInfo>
+      <nameOfIssuer>U.S. Government Money Market Fund</nameOfIssuer>
+      <titleOfIssuer>U.S. Government Agency Debt test1234</titleOfIssuer>
+      <CUSIPMember>360064QE2</CUSIPMember>
+      <cik>0001094885</cik>
+      <otherUniqueId>360064QE2</otherUniqueId>
+      <investmentCategory>U.S. Government Agency Debt</investmentCategory>
+      <securityEligibilityFlag>N</securityEligibilityFlag>
+      <investmentMaturityDateWAM>2016-08-08</investmentMaturityDateWAM>
+      <investmentMaturityDateWAL>2016-08-08</investmentMaturityDateWAL>
+      <finalLegalInvestmentMaturityDate>2016-08-08</finalLegalInvestmentMaturityDate>
+      <securityDemandFeatureFlag>N</securityDemandFeatureFlag>
+      <securityGuaranteeFlag>N</securityGuaranteeFlag>
+      <securityEnhancementsFlag>N</securityEnhancementsFlag>
+      <yieldOfTheSecurityAsOfReportingDate>0.0000</yieldOfTheSecurityAsOfReportingDate>
+      <includingValueOfAnySponsorSupport>0.00</includingValueOfAnySponsorSupport>
+      <excludingValueOfAnySponsorSupport>0.00</excludingValueOfAnySponsorSupport>
+      <percentageOfMoneyMarketFundNetAssets>0.0000</percentageOfMoneyMarketFundNetAssets>
+      <securityCategorizedAtLevel3Flag>N</securityCategorizedAtLevel3Flag>
+      <dailyLiquidAssetSecurityFlag>N</dailyLiquidAssetSecurityFlag>
+      <weeklyLiquidAssetSecurityFlag>N</weeklyLiquidAssetSecurityFlag>
+      <illiquidSecurityFlag>N</illiquidSecurityFlag>
+    </scheduleOfPortfolioSecuritiesInfo>
+    <signature>
+      <registrant>The Charles Schwab Family of Funds</registrant>
+      <signatureDate>2016-08-11</signatureDate>
+      <signature>John P. Doe</signature>
+      <nameOfSigningOfficer>John P. Doe</nameOfSigningOfficer>
+      <titleOfSigningOfficer>Treasurer</titleOfSigningOfficer>
+    </signature>
+  </formData>
+</edgarSubmission>
